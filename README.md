@@ -3,14 +3,14 @@
 
 - Birthday: 04/05/1988
 - Education:國立臺中科技大學 / 資訊管理系
-- Location: Hong Kong
+- Place of birth : Taipei city
 - E-mail: tiida541108@gmail.com
 - Mobile: 9718-5465
 <hr>
 
 ## 專業技能
 - 熟悉 HTML5 + CSS 完成RWD頁面架構和布局，開發符合各裝置尺寸的網站建置。
-- 使用 Bootstrap 快速開發響應式網頁。
+- 使用 Bootstrap 4 快速開發響應式網頁。
 - 使用 SCSS 管理網頁版型。
 - 了解 Javascript 基本語法，使用 Jquery 第三方套件呈現網頁動態效果。
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁上。
@@ -23,13 +23,13 @@
 
 #### 國防部通訊電子資訊士官（Database Administrator）- 08/2012 ~ 08/2015
 
-- 伺服器、Cisco硬體設備管理及維護內部官方網站。
+- 維護內部網站論壇及伺服器、Cisco硬體設備管理。
 - 安裝視訊、網路、電話設備及其線路架設。
 <hr>
 
 ## 未來計劃
 - 學習前端框架，如 Vue 或是 Angular
-- 學習Node.js及其伺服器端框架Express.js
+- 學習Sketch工具，增進設計能力
 <hr>
 
 ## 自我介紹
