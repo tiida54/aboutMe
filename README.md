@@ -8,7 +8,7 @@
 - Mobile: 9718-5465
 <hr>
 
-## 專業技能
+## Skills-專業技能
 - 熟悉 HTML5 + CSS 完成RWD頁面架構和布局，開發符合各裝置尺寸的網站建置。
 - 使用 Bootstrap 4 快速開發響應式網頁。
 - 使用 SCSS 管理網頁版型。
@@ -19,7 +19,7 @@
 - Photoshop基本工具操作。
 <hr>
 
-## 工作經驗
+## Career-工作經驗
 
 #### 國防部通訊電子資訊士官（Database Administrator）- 08/2012 ~ 08/2015
 
@@ -27,12 +27,21 @@
 - 安裝視訊、網路、電話設備及其線路架設。
 <hr>
 
-## 未來計劃
+## Works-作品集
+
+* Boosttrap 4
+
+- [購物網站界面](https://tiida54.github.io/shoppingcart/)
+- [後臺版型介紹](https://tiida54.github.io/dashboard/)
+- [形象首頁版型介紹](https://tiida54.github.io/landingpage/)
+<hr>
+
+## Future plan-未來計劃
 - 學習前端框架，如 Vue 或是 Angular
 - 學習Sketch工具，增進設計能力
 <hr>
 
-## 自我介紹
+## Introduction-自我介紹
 - 喜愛學習：之前從事為數據中心相關工作，但對前端技術一直抱持的興趣，
           如今決心成為前端工程師，透過線上交流及自學，有系統地增進自己的技術。
 - 思想開明：喜歡嘗試新技術及學習知識，積極學習期望自己每天進步。
