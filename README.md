@@ -29,15 +29,13 @@
 
 ## Works-作品集
 
-* Boosttrap 4
-
 - [購物網站界面](https://tiida54.github.io/shoppingcart/)
 - [後臺版型介紹](https://tiida54.github.io/dashboard/)
 - [形象首頁版型介紹](https://tiida54.github.io/landingpage/)
 <hr>
 
 ## Future plan-未來計劃
-- 學習前端框架，如 Vue 或是 Angular
+- 學習JS框架，如 Vue 或是 Angular
 - 學習Sketch工具，增進設計能力
 <hr>
 
