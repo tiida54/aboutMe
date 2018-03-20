@@ -29,7 +29,7 @@
 <hr>
 
 ## Portfolio-作品集
-- [個人介紹頁面](https://tiida54.github.io/Personal-Profile/)
+- [個人介紹頁面](https://tiida54.github.io/Personal-Profile/Personal-Profile.html)
 - [information/形象首頁切板](https://tiida54.github.io/Portfolio/information/comm-ez/)
     + 使用 Bootstrap 4 元件及 Flex 方式排版
     + SCSS編寫版型及大色塊背景
